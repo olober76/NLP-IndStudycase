@@ -1,3 +1,6 @@
 [submodule "indonlu1"]
 	path = indonlu1
 	url = https://github.com/IndoNLP/indonlu
+[submodule "indonlu"]
+	path = indonlu
+	url = https://github.com/IndoNLP/indonlu
