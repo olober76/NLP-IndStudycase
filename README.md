@@ -9,6 +9,7 @@ The primary objectives of this project include:
 - Conducting NLP analysis on Indonesian text.
 - Utilizing transfer learning for predictions.
 - Employing Support Vector Machines (SVM) for classification tasks.
+- analyze the Indonesian Sentences wether is it positive or negative sentences
 
 ## Models and References
 
